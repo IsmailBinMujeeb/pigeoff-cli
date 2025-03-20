@@ -1,0 +1,14 @@
+{
+    "method": "POST",
+    "req": "https://api.freeapi.app/api/v1/kitchen-sink/cookies/set",
+
+    "body": {
+        "ACCESS_TOKEN": "mewkqmkwmqkwmkwqmweje92229229.2ekweekwiewjeij2ieji2ejewjnjfnej.3nej3njeneiemieiejwi",
+        "REFRESH_TOKEN": "mewkqmkwmqkwmkwqmweje92229229.2ekweekwiewjeij2ieji2ejewjnjfnej.3nej3nDeneiemieiejwi"
+    },
+
+    "project": {
+        "cookie": true,
+        "header": true
+    }
+}
