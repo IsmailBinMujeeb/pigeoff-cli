@@ -1,0 +1,7 @@
+{
+    "method": "delete",
+    "req": "https://api.freeapi.app/api/v1/kitchen-sink/cookies/remove",
+    "query": {
+        "cookieKey": "ACCESS_TOKEN"
+    }
+}
