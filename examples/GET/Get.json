@@ -1,0 +1,9 @@
+{
+    "method": "GET",
+    "req": "https://api.freeapi.app/api/v1/public/randomusers/user/random",
+    "project": {
+        "response": true,
+        "header": true,
+        "cookie": true
+    }
+}
